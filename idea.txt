@@ -1,0 +1,7 @@
+The idea is to create a fully functioning POS System that can help restaurants and other businesses. 
+
+Some main ideas for this concept:
+Admin/Owner and Employee Login
+Food/Drink Options
+Be able to checkout whatever the customer orders
+Customization
